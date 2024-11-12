@@ -1,0 +1,2 @@
+npyscreen==4.10.5
+pathlib==1.0.1
