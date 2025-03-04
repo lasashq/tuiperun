@@ -1,7 +1,6 @@
 import time
 from functools import partial
-from typing import List
-from src.mode import Mode, BaseMode, BeginningMode, PracticeMode, TrainMode
+from src.mode import BaseMode, BeginningMode, PracticeMode, TrainMode
 from src.keyboard import OnScreenKeyboard
 import npyscreen
 
